@@ -1,0 +1,5 @@
+beautifulsoup4~=4.11.1
+pyowm~=3.3.0
+pyttsx3~=2.90
+pywhatkit~=5.4
+requests~=2.28.1
